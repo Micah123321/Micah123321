@@ -1,6 +1,4 @@
 <h1 align="center">👋,  I'm Micah</h1>
-<h3 align="center">donate</h1>
-<p align="left">https://boosty.to/micah/donate</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Micah123321&label=Profile%20views&color=0e75b6&style=flat" alt="AnshulMalik" /> </p>
 skill:
 

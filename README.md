@@ -10,5 +10,5 @@ skill:
  <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=micah123321&theme=radical" /></p>
  <p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micah123321&hide=javascript,html,css,scss&layout=compact&langs_count=10&show_icons=true&theme=radical&time=123" /> </p>
  
-donate: https://afdian.net/a/micah
+donate: https://afdian.net/a/mxmicah
 
